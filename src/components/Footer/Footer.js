@@ -8,7 +8,7 @@ export default function Footer() {
 			<footer className="footer">
 				<div className="d-flex bd-highlight">
 					<div className="p-2 bd-highlight">
-						<a href="https://github.com">
+						<a href="https://github.com/nikhilnagrale2/DSA">
 							<h4>
 								<Badge pill variant="light" className="hvr-grow">
 									<span role="img" aria-label="star">
