@@ -1,0 +1,14 @@
+.app-heading {
+	font-weight: 700;
+	color: #343a40;
+	font-size: 50px;
+}
+
+@media screen and (max-width: 480px) {
+	.app-heading {
+		font-size: 30px;
+	}
+	.app-heading2 {
+		font-size: 20px;
+	}
+}
